@@ -21,7 +21,7 @@ As skills se referenciam entre si — instale todas (a `korbit-api-basics` é pr
 ### Claude Code
 
 ```bash
-git clone https://github.com/korbit/korbit-skills.git
+git clone https://github.com/korbitbr/korbit-skills.git
 mkdir -p .claude/skills
 cp -r korbit-skills/skills/* .claude/skills/
 ```
